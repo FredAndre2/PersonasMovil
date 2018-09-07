@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ClaseListView</string>
+    <string name="Guardar">Guardar</string>
+    <string name="Guardar">Guardar</string>
+    <string name="Registrar">Registrar</string>
+    <string name="Nombre">Nombre</string>
+    <string name="Id">Id</string>
+    <string name="Cedula">Cedula</string>
+    <string name="Apellidos">Apellidos</string>
+</resources>
